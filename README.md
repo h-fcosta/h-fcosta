@@ -6,6 +6,8 @@
 - 📫 E-mail: henriquefcosta19@gmail.com
 
 <div>
+  <a href="https://github.com/h-fcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-fcosta&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-fcosta&hide=php&layout=compact&theme=gotham" />
+  </a>
 </div>
