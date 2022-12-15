@@ -1,8 +1,8 @@
 ## Olá! Me chamo Henrique Costa!
 
 - 👋 Hi, I’m @h-fcosta
-- 👀 Interessado em desenvolvimento de back-end e front-end, e Data Science
-- 🌱 Estudando React com Typescript, e alguma coisa de Ciência de Dados com Python.
+- 👀 Interessado em desenvolvimento de backend, frontend, fullstack e mobile.
+- 🌱 Estudando React, React Native e Node.js
 - 📫 E-mail: henriquefcosta19@gmail.com
 
 <div>
@@ -20,9 +20,6 @@
   <img align="center" alt="Henrique-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Henrique-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt="Henrique-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Henrique-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img align="center" alt="Henrique-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> 
 </div>
 
 ##
